@@ -5,4 +5,4 @@
 </p>
 <img src="http://bestanimations.com/Books/pretty-book-bench-nature-water-outdoors-animated-gif.gif">
 <br/>
-<h2> Books *you* should read.
+<h2> Books you should read.
