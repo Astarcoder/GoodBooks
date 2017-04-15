@@ -8,4 +8,6 @@
 <h2> Books you should read.
 </h2>
 <p> *Island of The Blue Dolphins. By Scott O' Dell
-* A Journey to the Center of the Earth. By Jules Verne
+</p>
+<p> *A Journey to the Center of the Earth. By Jules Verne
+</p>
