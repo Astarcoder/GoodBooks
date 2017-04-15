@@ -7,9 +7,19 @@
 <br/>
 <h2> Books you should read.
 </h2>
-<p> *Island of The Blue Dolphins. By Scott O' Dell
+<p> -Island of The Blue Dolphins By Scott O' Dell
 </p>
-<p> *A Journey to the Center of the Earth. By Jules Verne
+<p> -A Journey to the Center of the Earth By Jules Verne
 </p>
-<p> *Escape From Mr. Lemoncello's Library. By Chris Grabenstein
+<p> -Escape From Mr. Lemoncello's Library By Chris Grabenstein
+<p/>
+<p> -A Wrinkle in Time By Madiline L' Engle
+</p>
+<p> -City of Orphans By Avi
+<p/>
+<p> -Rollergirl By Victoria Jamieson
+<p/>
+<p> -The Swap By Megan Shull
+<p/>
+<p> -A Dog's Purpose By W. Bruce Cameron
 
