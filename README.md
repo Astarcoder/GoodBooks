@@ -22,6 +22,7 @@
 <p> -The Swap By Megan Shull
 <p/>
 <p> -A Dog's Purpose By W. Bruce Cameron
+<img src="http://bestanimations.com/Books/page-turning-book-animation-2.gif">
 <br/>
 <h2> Spotlight:
 </h2>
