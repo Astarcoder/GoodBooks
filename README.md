@@ -25,3 +25,4 @@
 <br/>
 <h2> Spotlight:
 </h2>
+<p> A Dog's Purpose is about a dog who is born a mutt.  He lives a devestating short life, and is reborn!  Now he is a Golden Retriver belonging to Ethan, a boy.  As the dog (Now named Bailey.) watches Ehan grow up and learns about the unbreakable bond between dog and master.  Bailey thinks that he has finally found his purpose in life.  To love.  But when Bailey dies, he is reborn again!  This time he, or rather she, is a German Shepard and is a police dog.  Now Ellie (Her new name.) is sure she will have a peacful death.   She is proven wrong.  He is now a Black Lab with the name "Bear" he is abused and hurt until one day, the finally let him go.  Bear finds a familar place, and follows his nose.  Soon enough, he finds Ethan, now an old man. This is a heart breaking story about love, compasion and furry friends.  You will never look at a dog the same again.
