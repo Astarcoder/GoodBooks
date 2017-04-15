@@ -9,5 +9,8 @@
 </h2>
 <p> *Island of The Blue Dolphins. By Scott O' Dell
 </p>
+<br/>
 <p> *A Journey to the Center of the Earth. By Jules Verne
 </p>
+<br/>
+
