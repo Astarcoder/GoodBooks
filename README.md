@@ -27,5 +27,6 @@
 <br/>
 <h2> Spotlight:
 </h2>
-<img src="https://images-na.ssl-images-amazon.com/images/I/51q94MZ3BQL._SX330_BO1,204,203,200_.jpg" height=200>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51q94MZ3BQL._SX330_BO1,204,203,200_.jpg"height=200>
 <p>All dogs go to heaven ... unless they have unfinished busniness here on Earth.  This is the remarkable story of one endearing dog's search for his purpose over the course of several lives.  More than another charming dog story, A Dog's Purpose touches on the universal quest for an answer to life's most basic question: Why are we here?
+<p>
