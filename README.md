@@ -51,7 +51,8 @@
 <img src="http://images5.fanpop.com/image/photos/27000000/Avalon-Manga-avalon-web-of-magic-27049076-800-600.jpg" style="width:250px;height:50">
 <p> Three teen girls find strange stones and are whisked into a world of magic and friendship.  Now they and their animal friends have to stop evil from unraviling the Magic Web and destroying the world as they know it.  In this twelve book series, magic is real, and friendship is everything.
 <br/>
-<!-- <h4> Want more -->
+<h4> Want More?  Click the buttons below to go to our other pages.
+</h4>
 
 
 
