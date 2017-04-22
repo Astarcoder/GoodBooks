@@ -28,9 +28,35 @@
 </h2>
 <h3> A Dog's Purpose By W. Bruce Cameron
 </h3>
+<img src="http://ecx.images-amazon.com/images/I/81wHf%2BGNTrL.jpg" height=80>
 <p>All dogs go to heaven ... unless they have unfinished busniness here on Earth.  This is the remarkable story of one endearing dog's search for his purpose over the course of several lives.  More than another charming dog story, A Dog's Purpose touches on the universal quest for an answer to life's most basic question: Why are we here?
 <p>
 <h2> Book Series You Should Read.
 </h2>
 <p> -Avalon: Web of Magic By Rachel Roberts
 </p>
+<p> -Percy Jackson and the Olympians By Rick Riordan
+</p> 
+<p> -Heros of Olympus By Rick Riordan
+</p>
+<p> -Harry Potter By J.K. Rowling
+<p/>
+<p> -The Spiderwick Chronicles By Holly Black, Tony DiTerlizzi
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
