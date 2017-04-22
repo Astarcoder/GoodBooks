@@ -43,8 +43,12 @@
 <p/>
 <p> -The Spiderwick Chronicles By Holly Black, Tony DiTerlizzi
 </p>
-
-
+<br/>
+<h2> Series Spotlight:
+</h2>
+<h3> Avalon: Web of Magic By Rachel Roberts
+</h3>
+<img src="http://images5.fanpop.com/image/photos/27000000/Avalon-Manga-avalon-web-of-magic-27049076-800-600.jpg" style="width:600px;height:400">
 
 
 
