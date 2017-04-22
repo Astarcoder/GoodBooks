@@ -48,7 +48,7 @@
 </h2>
 <h3> Avalon: Web of Magic By Rachel Roberts
 </h3>
-<img src="http://images5.fanpop.com/image/photos/27000000/Avalon-Manga-avalon-web-of-magic-27049076-800-600.jpg" style="width:400px;height:200">
+<img src="http://images5.fanpop.com/image/photos/27000000/Avalon-Manga-avalon-web-of-magic-27049076-800-600.jpg" style="width:250px;height:50">
 
 
 
