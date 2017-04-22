@@ -26,7 +26,7 @@
 <br/>
 <h2> Spotlight:
 </h2>
-<h3> A Dog's Purpose
+<h3> A Dog's Purpose By W. Bruce Cameron
 </h3>
 <p>All dogs go to heaven ... unless they have unfinished busniness here on Earth.  This is the remarkable story of one endearing dog's search for his purpose over the course of several lives.  More than another charming dog story, A Dog's Purpose touches on the universal quest for an answer to life's most basic question: Why are we here?
 <p>
