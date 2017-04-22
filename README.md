@@ -28,7 +28,7 @@
 </h2>
 <h3> A Dog's Purpose By W. Bruce Cameron
 </h3>
-<img src="http://ecx.images-amazon.com/images/I/81wHf%2BGNTrL.jpg">
+<img src="http://ecx.images-amazon.com/images/I/81wHf%2BGNTrL.jpg" style="width:228px;height:304px>
 <p>All dogs go to heaven ... unless they have unfinished busniness here on Earth.  This is the remarkable story of one endearing dog's search for his purpose over the course of several lives.  More than another charming dog story, A Dog's Purpose touches on the universal quest for an answer to life's most basic question: Why are we here?
 <p>
 <h2> Book Series You Should Read.
