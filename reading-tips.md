@@ -13,3 +13,5 @@
 </p>
 <p> 3. Find Your "Reading Place": Find a place where it is comfy, has almost no distractions, and whatever else you want!  It can be a special chair, the family couch, your bed, a bench at the park, or anywhere that you like!
 </p>
+<p> If you find something that works for you, share it with friends and family.  A good idea is worth being shared!
+</p>
