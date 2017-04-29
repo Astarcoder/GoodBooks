@@ -15,3 +15,6 @@
 </p>
 <p> If you find something that works for you, share it with friends and family.  A good idea is worth being shared!
 </p>
+<br/>
+<h4> Want More?  Click the buttons below to go to our other pages.
+</h4>
