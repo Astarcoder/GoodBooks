@@ -22,6 +22,7 @@
 <p> -The Swap By Megan Shull
 <p/>
 <p> -A Dog's Purpose By W. Bruce Cameron
+</p>
 <br/>
 <br/>
 <h2> Spotlight:
@@ -43,6 +44,7 @@
 <p/>
 <p> -The Spiderwick Chronicles By Holly Black, Tony DiTerlizzi
 </p>
+<p> -The Willow Falls Series By Wendy Mass
 <br/>
 <h2> Series Spotlight:
 </h2>
