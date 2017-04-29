@@ -54,7 +54,7 @@
 <h4> Want More?  Click the buttons below to go to our other pages.
 </h4>
 <a href="https://astarcoder.github.io/GoodBooks/reading-tips"><button>Reading Tips</button></a>
-
+<a href="https://astarcoder.github.io/GoodBooks/why-we-read"><button>Why We Read</button></a>
 
 
 
