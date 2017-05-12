@@ -15,6 +15,7 @@
 </h4>
 <a href="https://astarcoder.github.io/GoodBooks/reading-tips"><button>Reading Tips</button></a>
 <a href="https://astarcoder.github.io/GoodBooks/"><button>Home</button></a>
+<a href="https://astarcoder.github.io/GoodBooks/sequels"><button>Sequels</button></a>
 
 
 
