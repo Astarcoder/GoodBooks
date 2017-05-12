@@ -8,14 +8,17 @@
 </p>
 <p> - A Dog's Journey By W. Bruce Cameron (Sequel to A Dog's Purpose)
 </p>
-<p> se·quel
-ˈsēkwəl
-noun
-a published, broadcast, or recorded work that continues the story or develops the theme of an earlier one.
+<h5> se·quel
+</h5>
+<h6>ˈsēkwəl
+</h6>
+<h6> noun
+</h6>
+<p> a published, broadcast, or recorded work that continues the story or develops the theme of an earlier one.
 </p>
 <a href="https://astarcoder.github.io/GoodBooks/reading-tips"><button>Reading Tips</button></a>
 <a href="https://astarcoder.github.io/GoodBooks/why-we-read"><button>Why We Read</button></a>
-<a href="https://astarcoder.github.io/GoodBooks/home"><button>Sequels</button></a>
+<a href="https://astarcoder.github.io/GoodBooks/home"><button>Home</button></a>
 
 
 
