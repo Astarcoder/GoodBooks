@@ -8,6 +8,7 @@
 </p>
 <p> - A Dog's Journey By W. Bruce Cameron (Sequel to A Dog's Purpose)
 </p>
+<p> -Dandelion Fire By N. D. Wilson (Sequel to 100 Cupboards)
 <h3> se·quel
 </h3>
 <h4>ˈsēkwəl
