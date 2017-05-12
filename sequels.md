@@ -20,7 +20,7 @@
 </h4>
 <a href="https://astarcoder.github.io/GoodBooks/reading-tips"><button>Reading Tips</button></a>
 <a href="https://astarcoder.github.io/GoodBooks/why-we-read"><button>Why We Read</button></a>
-<a href="https://astarcoder.github.io/GoodBooks/GoodBooks/"><button>Home</button></a>
+<a href="https://astarcoder.github.io/GoodBooks/"><button>Home</button></a>
 
 
 
